@@ -2,11 +2,13 @@
 
 Coverage reporting tool for The Go Programming Language
 
-[![Build Status](https://travis-ci.org/axw/gocov.svg?branch=master)](https://travis-ci.org/axw/gocov)
+[![Go](https://github.com/logangeorge01/gocov/actions/workflows/go.yml/badge.svg)](https://github.com/logangeorge01/gocov/actions/workflows/go.yml)
+
+This fork targets Go 1.27 or newer with updated dependencies.
 
 ## Installation
 
-```go install github.com/axw/gocov/gocov@latest```
+```go install github.com/logangeorge01/gocov/gocov@master```
 
 ## Usage
 
