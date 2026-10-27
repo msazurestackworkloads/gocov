@@ -2,13 +2,13 @@
 
 Coverage reporting tool for The Go Programming Language
 
-[![Go](https://github.com/logangeorge01/gocov/actions/workflows/go.yml/badge.svg)](https://github.com/logangeorge01/gocov/actions/workflows/go.yml)
+[![Go](https://github.com/msazurestackworkloads/gocov/actions/workflows/go.yml/badge.svg)](https://github.com/msazurestackworkloads/gocov/actions/workflows/go.yml)
 
 This fork targets Go 1.27 or newer with updated dependencies.
 
 ## Installation
 
-```go install github.com/logangeorge01/gocov/gocov@master```
+```go install github.com/msazurestackworkloads/gocov/gocov@master```
 
 ## Usage
 

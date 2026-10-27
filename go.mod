@@ -1,4 +1,4 @@
-module github.com/logangeorge01/gocov
+module github.com/msazurestackworkloads/gocov
 
 go 1.27.0
 
